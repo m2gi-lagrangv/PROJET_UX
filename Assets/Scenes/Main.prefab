@@ -3461,15 +3461,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 966ca442bb290513da995c618acd16a8, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.01
+      value: 0.005
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 966ca442bb290513da995c618acd16a8, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.01
+      value: 0.005
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 966ca442bb290513da995c618acd16a8, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.01
+      value: 0.005
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 966ca442bb290513da995c618acd16a8, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3477,7 +3477,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 966ca442bb290513da995c618acd16a8, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 49.23
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 966ca442bb290513da995c618acd16a8, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3514,6 +3514,18 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 966ca442bb290513da995c618acd16a8, type: 3}
       propertyPath: m_Name
       value: Boule
+      objectReference: {fileID: 0}
+    - target: {fileID: 8630182533373557982, guid: 966ca442bb290513da995c618acd16a8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1809
+      objectReference: {fileID: 0}
+    - target: {fileID: 8630182533373557982, guid: 966ca442bb290513da995c618acd16a8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6927
+      objectReference: {fileID: 0}
+    - target: {fileID: 8630182533373557982, guid: 966ca442bb290513da995c618acd16a8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 336
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
@@ -4952,7 +4964,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6853218870844938225, guid: d8a2a1f4b4f78754c86045f7a36fe424, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 0.35
       objectReference: {fileID: 0}
     - target: {fileID: 6853218870844938225, guid: d8a2a1f4b4f78754c86045f7a36fe424, type: 3}
       propertyPath: m_LocalRotation.w
